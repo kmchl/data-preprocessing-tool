@@ -36,3 +36,10 @@
 1. Column names are assumed to be *Clinic Name* and *Isolated Organisms*.
 2. Clinic names are assumed to be in the format *Clinic Location + Department* (e.g., *BRI Cardiology*, *Bristol Cardiology*).
 3. Isolated organisms are assumed to be listed in one cell, separated by *&*.
+
+**Installations:**
+
+- pip install fuzzywuzzy==0.18.0
+- pip install pandas==2.2.2
+- pip install python-Levenshtein==0.26.0
+- pip install streamlit==1.38.0
