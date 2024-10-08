@@ -34,7 +34,7 @@
 **Assumptions:**
 
 1. Column names are assumed to be *Clinic Name* and *Isolated Organisms*.
-2. Clinic names are assumed to be in the format *Clinic Location + Department* (e.g., *BRI Cardiology*, *Bristol Cardiology*).
+2. Clinic names are assumed to be in the format *Clinic Location + Department* (e.g., *BRI Neurology*, *Bristol Neurology*).
 3. Isolated organisms are assumed to be listed in one cell, separated by *&*.
 
 **Installations:**
