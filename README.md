@@ -44,5 +44,5 @@
 - pip install python-Levenshtein==0.26.0
 - pip install streamlit==1.38.0
 
-** Run: **
+**Run:**
 - streamlit run app.py
