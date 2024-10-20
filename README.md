@@ -43,3 +43,6 @@
 - pip install pandas==2.2.2
 - pip install python-Levenshtein==0.26.0
 - pip install streamlit==1.38.0
+
+** Run: **
+- streamlit run app.py
